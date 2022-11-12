@@ -4,4 +4,4 @@
 This project is making "crossy road"
 
 # member
-차승훈[https://www.notion.so/5cf7bdaa6ac04a16ba5968248bd00d4c] :crown:
+[차승훈][https://www.notion.so/5cf7bdaa6ac04a16ba5968248bd00d4c] :crown:
