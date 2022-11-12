@@ -3,3 +3,6 @@
 
 # member
 차승훈 :crown:
+
+# notion
+https://www.notion.so/5cf7bdaa6ac04a16ba5968248bd00d4c
